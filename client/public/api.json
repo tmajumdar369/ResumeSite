@@ -1,0 +1,42 @@
+{
+  "name": "Tamal Majumdar",
+  "title": "Java Developer",
+  "about": "Experienced Java developer with expertise in Spring Boot, React, and cloud technologies.",
+  "contact": {
+    "email": "tmajumdar369@gmail.com",
+    "github": "https://github.com/tmajumdar369",
+    "linkedin": "https://linkedin.com/in/your-linkedin"
+  },
+  "skills": [
+    "Java", "Spring Boot", "React", "TypeScript", "Node.js", "RESTful APIs", "Git"
+  ],
+  "experience": [
+    {
+      "title": "Senior Java Developer",
+      "company": "Company Name",
+      "duration": "2023 - Present",
+      "description": "Leading development of enterprise Java applications using Spring Boot."
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Previous Company",
+      "duration": "2020 - 2023",
+      "description": "Developed web applications using Java and React."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in Computer Science",
+      "institution": "University Name",
+      "year": "2020"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Website",
+      "description": "Interactive resume website built with React and Express",
+      "technologies": ["React", "Express", "TypeScript", "Tailwind CSS"],
+      "link": "https://github.com/tmajumdar369/ResumeSite"
+    }
+  ]
+}
